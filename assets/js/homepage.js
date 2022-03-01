@@ -5,6 +5,7 @@ var repoSearchTerm = document.querySelector("#repo-search-term");
 var languageButtonsEl = document.querySelector("#language-buttons");
 
 
+
 var formSubmitHandler = function (event) {
   event.preventDefault();
   // get value from input element
