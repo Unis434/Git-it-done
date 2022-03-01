@@ -32,6 +32,7 @@ Click on any topic on the bottom left to view open issues based on desired topic
 Enjoy!!!
 
 ## Preview
+![Landing page](https://user-images.githubusercontent.com/79544610/156120016-de6bfd8c-840a-422d-8af9-feccf1e817c9.png)
 
 
 ## Questions
